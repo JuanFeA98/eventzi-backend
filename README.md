@@ -1,1 +1,1 @@
-# eventzi-backend
+# Eventzi-backend
